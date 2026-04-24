@@ -1,0 +1,28 @@
+# Build folders
+build/
+build-*/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Compiled files
+*.o
+*.a
+*.out
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+
+# Runtime data
+data/
+
+# Testing temp
+Testing/
+
+# Optional notes
+info.txt
+interview_questions_and_answers.txt
